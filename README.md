@@ -6,6 +6,7 @@ You can find more free content about Python and automation on my Medium articles
 - Medium: https://frank-andrade.medium.com/
 - YouTube: https://www.youtube.com/c/FrankAndrade5
 
+
 ## Automatiza tu Vida con Python
 
 🇪🇸 Este repositorio contiene algunos scripts "Automatiza tu Vida con Python": https://www.udemy.com/course/automatiza-tu-vida-con-python/?referralCode=F61B2EBEB2695B3D7177
